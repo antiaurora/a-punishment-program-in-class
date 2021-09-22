@@ -1,7 +1,7 @@
 # a-punishment-program-in-class
 上课玩手机（看网页）被抓写的惩罚程序（本地网页）
 
-4.14
+2021.4.14
 为了不用到本地，将抓来的css上传github了，但是无法访问
 需要转 Raw 并将 raw.githubusercontent.com 改为 raw.githack.com
 然而依然不能访问，因为要科学上网...
@@ -31,3 +31,7 @@ Typora永远的神！
 给朋友看的时候发现了错别字...啊这
 4.30
 修改了
+
+
+2021.9.22
+幡然醒悟，我可以部署在服务器啊！哦吼
